@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bruny009
-- 👀 I’m interested in python!
-- 🌱 I’m currently learning C!
-- 💞️ I’m looking to collaborate on ZeNiTh!
+- 👀 I’m interested in Python, C and Kotlin!
+- 🌱 I’m currently learning Kotlin!
+- 💞️ I’m looking to collaborate on Team ZeNiTh!
 - 📫 How to reach me .....
 
 <!---
