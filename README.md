@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bruny009
+- 👋 Hi, I’m @Juyear009
 - 👀 I’m interested in Python, C and Kotlin!
 - 🌱 I’m currently learning Kotlin!
-- 💞️ I’m looking to collaborate on Team ZeNiTh!
+- 💞️ I’m looking to collaborate on Team KYT!
 - 📫 How to reach me .....
 
 <!---
