@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juyear009
-- 👀 I’m interested in Python, C and Kotlin!
-- 🌱 I’m currently learning Dart and Flutter!
+- 👀 I’m interested in Python, React!
+- 🌱 I’m currently learning React and Node!
 - 💞️ I’m looking to collaborate on Team KYT!
 - 📫 How to reach me .....
 
