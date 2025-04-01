@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Juyear009
+# 👋 Hi, I’m @Juyear009
 - 👀 I’m interested in Python, React!
 - 🌱 I’m currently learning React and Node!
-- 💞️ I’m looking to collaborate on Team KYT!
+- 💞️ I’m looking to collaborate on **KYTER**!
 - 📫 How to reach me githubbruny@gmail.com
 
 <!---
