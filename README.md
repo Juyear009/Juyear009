@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 ![Static Badge](https://img.shields.io/badge/kotlin-brightgreen?style=for-the-badge&logo=kotlin&logoColor=white&logoSize=auto&color=7E60EE)
 ![Static Badge](https://img.shields.io/badge/MYSQL-brightgreen?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&color=CE8D2F)
 
-
+![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bru_slime)
