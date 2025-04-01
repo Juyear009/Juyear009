@@ -1,3 +1,5 @@
+![KYTER](https://github.com/Juyear009/Juyear009/blob/main/%EA%B0%80%EB%A1%9C.png)
+
 <h1 align="center">
   👋 Hi, I’m @Juyear009
 </h1>
