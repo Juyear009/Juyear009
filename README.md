@@ -1,4 +1,7 @@
-# 👋 Hi, I’m @Juyear009
+<h1 align="center">
+  👋 Hi, I’m @Juyear009
+</h1>
+
 - 👀 I’m interested in Python, React!
 - 🌱 I’m currently learning React and Node!
 - 💞️ I’m looking to collaborate on **KYTER**!
